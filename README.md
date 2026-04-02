@@ -5,6 +5,7 @@ A modern analytics dashboard built with React, TypeScript, and Material-UI. The 
 
 ## Features
 
+
 - Real-time data visualization with interactive charts
 - Responsive design that works on desktop and mobile
 - Dark mode support with customizable theming
