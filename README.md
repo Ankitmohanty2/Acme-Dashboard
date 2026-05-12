@@ -1,4 +1,3 @@
-
 # Acme Dashboard
 
 A modern analytics dashboard built with React, TypeScript, and Material-UI. The Acme Dashboard provides real-time data visualization and insights with a clean, responsive user interface.
